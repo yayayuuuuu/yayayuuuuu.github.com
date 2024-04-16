@@ -10,3 +10,9 @@ body h1 {
     background-color: #34A1B9;
     color: #FFFFFF;
 }
+body iframe {
+    text-align: center;
+    top: 50%;
+    left: 50%;
+    right: 50%;
+}
