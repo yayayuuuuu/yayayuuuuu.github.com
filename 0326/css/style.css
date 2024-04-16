@@ -10,16 +10,31 @@
 
 /* basic elements */
 html {
-	margin: 0;
-	padding: 0;
+    margin: 0;
+    padding: 0;
+    text-align: center;
 	}
-body { 
-	font: 75% georgia, sans-serif;
-	line-height: 1.88889;
-	color: #555753; 
-	background: #fff url(http://csszengarden.com/001/blossoms.jpg) no-repeat bottom right; 
-	margin: 0; 
-	padding: 0;
+body {
+    font-size: 180%;
+    font-family: georgia, sans-serif;
+    line-height: 1.8889;
+    color: #040404;
+    background-repeat: no-repeat;
+    background-position: bottom right;
+    background-image: url(http://csszengarden.com/001/blossoms.jpg);
+    background-color: #FFFFFF;
+    margin: 0;
+    padding: 0;
+    position: static;
+    float: left;
+    overflow-x: visible;
+    font-style: normal;
+    font-weight: normal;
+    text-align: justify;
+    min-width: 0px;
+    clear: both;
+    text-shadow: 0px 0px 0px #FFFFFF;
+    border: 16cm none #FFB273;
 	}
 p { 
 	margin-top: 0; 

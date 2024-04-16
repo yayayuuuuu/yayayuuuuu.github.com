@@ -1,5 +1,10 @@
 @charset "utf-8";
 .title1 {
+    width: auto;
+    /* [disabled]display: table-column; */
+    top: 50%;
+    left: 50%;
+
 }
 .style1 {
 }
