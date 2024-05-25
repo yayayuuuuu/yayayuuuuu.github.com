@@ -18,3 +18,12 @@
 }
 #maincontent img {
 }
+body {
+}
+#caption img {
+    clear: none;
+    min-width: 0px;
+    min-height: 0px;
+    left: 50%;
+
+}
